@@ -41,14 +41,34 @@
       "id": 3
     },
     {
-      "owner": 87573,
-      "name": "Jono",
+      "owner": 75896,
+      "name": "Thomas",
       "position": [
-        -27.3899,
-        153.012
+        -27.41,
+        153.09
       ],
-      "text": "Worst kebabs in the world :(",
+      "text": "The traffic along here really isnt great",
       "id": 4
+    },
+    {
+      "owner": 54268,
+      "name": "Clive",
+      "position": [
+        -27.36,
+        153.15
+      ],
+      "text": "Worst kebabs in the world :( shop was really unclean",
+      "id": 5
+    },
+    {
+      "owner": 75543,
+      "name": "Steven",
+      "position": [
+        -27.42,
+        153.12
+      ],
+      "text": "Believe me you really have to visit this place! It is incredible!",
+      "id": 6
     },
     {
       "owner": 57682,
@@ -57,8 +77,8 @@
         -27.4505,
         153.022
       ],
-      "text": "Not too much to say about this. It's nice and clean I'll give it that!",
-      "id": 5
+      "text": "Not too much to say about this place. It's nice and clean I'll give it that!",
+      "id": 7
     }
   ]
 }
