@@ -1,0 +1,64 @@
+{
+  "Notes": [
+    {
+      "owner": 87573,
+      "name": "Jono",
+      "position": [
+        -27.4305,
+        153.042
+      ],
+      "text": "This is my favourite place",
+      "id": 0
+    },
+    {
+      "owner": 13356,
+      "name": "Timothy",
+      "position": [
+        -27.45,
+        153.01
+      ],
+      "text": "Nice pizza here",
+      "id": 1
+    },
+    {
+      "owner": 87573,
+      "name": "Jono",
+      "position": [
+        -27.52305,
+        153.25
+      ],
+      "text": "Really great place to grab lunch!",
+      "id": 2
+    },
+    {
+      "owner": 46385,
+      "name": "David",
+      "position": [
+        -26.95,
+        153.15
+      ],
+      "text": "The views of the ocean are incredible here :)",
+      "id": 3
+    },
+    {
+      "owner": 87573,
+      "name": "Jono",
+      "position": [
+        -27.3899,
+        153.012
+      ],
+      "text": "Worst kebabs in the world :(",
+      "id": 4
+    },
+    {
+      "owner": 57682,
+      "name": "Jeff",
+      "position": [
+        -27.4505,
+        153.022
+      ],
+      "text": "Not too much to say about this. It's nice and clean I'll give it that!",
+      "id": 5
+    }
+  ]
+}
